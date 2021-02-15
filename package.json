@@ -215,5 +215,8 @@
     "docs",
     "docs/packages/*",
     "framer"
-  ]
+  ],
+  "dependencies": {
+    "@bojagi/cli": "^0.14.1"
+  }
 }
